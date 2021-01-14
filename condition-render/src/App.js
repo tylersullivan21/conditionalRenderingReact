@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Carousel from "./components/Carousel";
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
   
 <html>
 <body>
-
+<Carousel />
 <h1>sample heading</h1>
 
 <p>sample paragraph.</p>
